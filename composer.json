@@ -2,7 +2,7 @@
     "name": "pawelrostek/jira-api",
     "type": "library",
     "description": "Jira API client",
-    "homepage": "https://github.com/pawelrostek/jira-api",
+    "homepage": "https://github.com/pawelrostek/jira-api/tree/master",
     "keywords": ["jira", "api", "client"],
     "license": "MIT",
     "authors": [
@@ -24,6 +24,11 @@
     "autoload": {
         "psr-4": {
             "JiraApi\\": "lib/JiraApi/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "JiraApi\\Tests\\": "tests/"
         }
     }
 }
