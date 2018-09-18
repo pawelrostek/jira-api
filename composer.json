@@ -2,7 +2,7 @@
     "name": "pawelrostek/jira-api",
     "type": "library",
     "description": "Jira API client",
-    "homepage": "https://github.com/pawelrostek/jira-api/tree/master",
+    "homepage": "https://github.com/pawelrostek/jira-api",
     "keywords": ["jira", "api", "client"],
     "license": "MIT",
     "authors": [
